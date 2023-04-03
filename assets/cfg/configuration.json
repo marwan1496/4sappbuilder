@@ -1,0 +1,8 @@
+{
+  "api_base_url": "https://4sbuilder.4s.studio/",
+  "firstColor": "#7b50dc",
+  "secondColor": "#597ae2",
+  "appIdOneSignal": "xxxxxxxxx-xxxx-xxxx-xxx-xxxxxxxxxxx",
+  "defaultLanguage": "en",
+  "deeplink": "app.flyweb.scheme"
+}
